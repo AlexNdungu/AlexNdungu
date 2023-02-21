@@ -1,4 +1,4 @@
-[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)]
+![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 
 <h1 align="center">Hi 👋, I'm Alex Meta</h1>
 <h3 align="center">A Passionate Full Stack Web Developer And Machine Learning Engineer Building My Version Of The Digital World One Step At A Time.</h3>
