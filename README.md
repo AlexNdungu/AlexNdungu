@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alex Meta</h1>
 <h3 align="center">A Passionate Full Stack Web Developer And Machine Learning Engineer Building My Version Of The Digital World One Step At A Time.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexndungu&label=Profile%20views&color=0e75b6&style=flat" alt="alexndungu" /> </p>
 
